@@ -201,33 +201,39 @@ https://youtu.be/gpuWF0w_45g
 --- 시험----
 
 
-37일차   5/27
+37일차 < JSP 4일차 >   5/27
+https://youtu.be/ucijMI49GAY
 
 
+38일차 < JSTL 1일차 >  5/28
+https://youtu.be/BYTOqtyjIj0
 
 
+39일차  < JSTL 2일차 > 5/29
 
-38일차   5/28
+https://youtu.be/wPFnUECpVEA
 
+----------------------------------------------------
 
+Spring1일차   6/10
 
+https://youtu.be/uHkUuCmsH3o
 
-
-39일차   5/29
-
-
-
-
-
-40일차   5/30
+https://youtu.be/0y0ALRldlAA?si=9U44bPBosYsG7mpx
 
 
+Spring2일차   6/11
+https://youtu.be/tGOtn7pbAz0?si=MKMxFR8f4Xh5NlRq
+
+https://youtu.be/tGOtn7pbAz0?si=MKMxFR8f4Xh5NlRq
 
 
+Spring3일차   6/12
 
-41일차   5/31
+https://youtu.be/n_v72TaX_4g
 
+Spring4일차   6/13
 
+https://youtu.be/pMun9lTvqWA
 
-
-42일차 
+https://youtu.be/phmYOVSqmmQ
