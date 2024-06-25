@@ -232,6 +232,7 @@ Spring3일차   6/12
 
 https://youtu.be/n_v72TaX_4g
 
+
 Spring4일차   6/13
 
 https://youtu.be/pMun9lTvqWA
@@ -244,3 +245,51 @@ https://youtu.be/Tmjg6oNT8Wk
 
 https://youtu.be/7Xx1kohcOEI?si=wGqEoGk072HwSXTB
 
+
+Spring6일차   6/17
+https://youtu.be/13tm16UaM1U?si=iiqDmrKBQ7izbsrI
+
+
+Spring7일차   6/18
+https://youtu.be/44X8kOJIPmQ
+
+> 장바구니, 주문서 맵핑
+
+https://youtu.be/R8nh0pfnJNQ
+
+> 주문 아이템 맵핑
+> DB 그리는 방법
+> Auditing
+>modelMapper
+
+Spring8일차   6/19
+https://youtu.be/iifwiVADJFU
+
+>modelMapper
+
+https://youtu.be/SnsgV32sRFI
+
+
+Spring9일차   6/20
+https://youtu.be/cdLJHYGJi4Y
+
+https://youtu.be/yn5XKrDEgXU
+
+
+Spring10일차   6/21
+https://youtu.be/CoDeuSxI4PI
+
+https://youtu.be/YWuUDeMuTL4
+
+
+
+Spring11일차   6/25
+
+https://youtu.be/DqOKf0ShOO0
+
+https://youtu.be/X3bFO6SnWBE?si=iCCTinsqj2OioeJg
+
+Spring12일차   6/26
+https://youtu.be/5hcETGYIJ9U
+
+https://youtu.be/v-JdW-ZhY4s
